@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+form{
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.error{
+  color: red;
+}
